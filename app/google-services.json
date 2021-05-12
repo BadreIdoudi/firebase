@@ -1,0 +1,304 @@
+{
+  "project_info": {
+    "project_number": "850092888630",
+    "firebase_url": "https://fir-app-a2d41.firebaseio.com",
+    "project_id": "fir-app-a2d41",
+    "storage_bucket": "fir-app-a2d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:bc0a30ff23b83cf5027e97",
+        "android_client_info": {
+          "package_name": "de.tekup.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:b28b0f3e69c3f59f",
+        "android_client_info": {
+          "package_name": "firebase.androidhive.info.badergps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-knbm090ro5sn02v4lnupd63221ku2jt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.androidhive.info.badergps",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:1d1f88f538459b9f",
+        "android_client_info": {
+          "package_name": "firebase.androidhive.info.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-eur728eqdd1r0p2q0oaa23a28mipvdn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.androidhive.info.firebase",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:2fd459b3fd591251",
+        "android_client_info": {
+          "package_name": "www.bader.com.androidgpss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-943kk0sret31io88eu38mthnfkpgct6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.bader.com.androidgpss",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:10ec62d61514ec5e",
+        "android_client_info": {
+          "package_name": "www.bader.com.firefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-rpf62p9qg1aj9bm4fpqksrhgvj7laerd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.bader.com.firefire",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:2140f8d71a2733e9",
+        "android_client_info": {
+          "package_name": "www.bader.com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-4lrtr2dq1qfrve07554tn2v8o944l7be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.bader.com.notification",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850092888630:android:5f64fcb0ee17121a",
+        "android_client_info": {
+          "package_name": "www.bader.com.pfelocalisation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850092888630-4682r1l01pteot37c5t8d4huaamkch70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.bader.com.pfelocalisation",
+            "certificate_hash": "a023f7431fd4b08d1a16168f4b196735f5f6b990"
+          }
+        },
+        {
+          "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaLVrDUC7lT_QuOkT0wYWkmnUBAbPGQzU"
+        },
+        {
+          "current_key": "AIzaSyA96ZtistmhokmfPgGdLY00DdN9zDz-n98"
+        },
+        {
+          "current_key": "AIzaSyCk0QOuFmtYs0YcGZrP0neJZG-4QC5yBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850092888630-fcebj51ktujd5br106d1ecd643p2o7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
